@@ -1,0 +1,12 @@
+# Bases brutas de ITBI da Fazenda (dezenas de MB cada; baixe de novo e rode prepara_itbi.py)
+ITBI/*.ods
+ITBI/*.xlsx
+ITBI/*.xls
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
